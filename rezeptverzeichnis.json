@@ -1,20 +1,26 @@
 {
   "rezept_1": {
     "name": "Vada Pav",
-    "beschreibung": "Das indische Street-Food Sandwich – knusprige Kartoffelkroketten im weichen Brötchen mit Chutneys.",
+    "beschreibung": "Das indische Street-Food Sandwich – knusprige Kartoffelkroketten im selbstgebackenen, weichen Brötchen mit Chutneys.",
     "portionen": 4,
-    "zeit": "45 Minuten",
+    "zeit": "90 Minuten (inkl. Ruhezeit für den Teig)",
     "schritte": [
-      "Kartoffeln weich kochen, schälen und in einer Schüssel grob zerdrücken.",
-      "Ingwer, Knoblauch und grüne Chili fein hacken und zusammen mit Senfkörnern in etwas Öl kurz anbraten.",
-      "Gewürzmischung mit Kurkuma, Korianderpulver und Salz unter die Kartoffeln mischen und gut verkneten.",
-      "Aus der Masse runde Bällchen formen (ca. 5 cm Durchmesser).",
-      "Kichererbsenmehl mit Wasser, Salz und einer Prise Kurkuma zu einem glatten Teig verrühren.",
-      "Die Kartoffelbällchen im Teig wenden und in heißem Öl goldbraun ausbacken (ca. 3–4 Minuten).",
-      "Pav-Brötchen aufschneiden, innen mit grünem Chutney bestreichen.",
-      "Vada ins Brötchen legen, mit Tamarinden-Chutney beträufeln und sofort servieren."
+      "Für die Pav-Brötchen: Die frische Hefe und den Zucker in 150 ml lauwarmem Wasser auflösen und für 5 Minuten ruhen lassen, bis es leicht schäumt.",
+      "Das Weizenmehl (250 g) mit 1 TL Salz mischen. Das Hefewasser und 2 EL Öl hinzugeben und alles für ca. 5–7 Minuten zu einem glatten, geschmeidigen Teig kneten. Abgedeckt an einem warmen Ort für 45 Minuten gehen lassen, bis sich das Volumen verdoppelt hat.",
+      "Den Teig in 4 gleich große Kugeln formen, auf ein mit Backpapier belegtes Blech setzen und weitere 15 Minuten abgedeckt ruhen lassen. Anschließend im vorgeheizten Ofen bei 180 °C Umluft für 15–20 Minuten goldbraun backen. Danach abkühlen lassen.",
+      "Während der Teig geht, die Kartoffeln in Salzwasser für ca. 20 Minuten weich kochen. Danach pellen und in einer großen Schüssel mit einer Gabel grob zerdrücken.",
+      "Ingwer, Knoblauch und grüne Chilis fein würfeln. In einer Pfanne 1 EL Öl erhitzen, die Senfkörner für 1 Minute anrösten, bis sie springen. Dann die Ingwer-Knoblauch-Mischung für 2 Minuten mitbraten.",
+      "Die Gewürz-Öl-Mischung zusammen mit Kurkuma, Korianderpulver und 1 TL Salz unter den Kartoffelstampf heben und gut verkneten. Aus der Masse 4 runde Bällchen formen.",
+      "Für die Ausbackmasse das Kichererbsenmehl mit ca. 100 ml Wasser, 1/2 TL Salz und einer Prise Kurkuma zu einem glatten, dickflüssigen Teig verrühren.",
+      "Reichlich Öl in einem kleinen Topf erhitzen (ca. 170 °C). Die Kartoffelbällchen durch den Teig ziehen und im heißen Öl für ca. 3–4 Minuten rundherum goldbraun frittieren. Auf Küchenpapier abtropfen lassen.",
+      "Die selbstgebackenen Pav-Brötchen aufschneiden, innen mit grünem Chutney bestreichen, je ein Vada hineinlegen, mit Tamarinden-Chutney beträufeln und sofort servieren."
     ],
     "zutaten": [
+      "250 g Weizenmehl (für die Brötchen)",
+      "½ Würfel frische Hefe (21 g)",
+      "1 TL Zucker",
+      "150 ml lauwarmes Wasser",
+      "2 EL Öl (für den Teig)",
       "500 g mehligkochende Kartoffeln",
       "1 TL Senfkörner",
       "2 Knoblauchzehen",
@@ -24,26 +30,25 @@
       "1 TL Korianderpulver",
       "Salz nach Geschmack",
       "150 g Kichererbsenmehl",
-      "Öl zum Frittieren",
-      "4 Pav-Brötchen (oder Brioche-Brötchen)",
+      "Öl zum Frittieren (ca. 500 ml)",
       "Grünes Koriander-Chutney",
       "Tamarinden-Chutney"
     ]
   },
   "rezept_2": {
-    "name": "Shakshuka",
-    "beschreibung": "Nordafrikanisches Gericht mit in Tomatensauce pochierten Eiern – perfekt für ein herzhaftes Frühstück.",
+    "name": "Veganes Shakshuka",
+    "beschreibung": "Nordafrikanischer Klassiker, rein pflanzlich: Würzige Tomatensauce mit sanft gegartem Seidentofu, der das klassische Ei perfekt ersetzt.",
     "portionen": 2,
-    "zeit": "30 Minuten",
+    "zeit": "35 Minuten",
     "schritte": [
-      "Zwiebel und Knoblauch fein würfeln, Paprika in Streifen schneiden.",
-      "Olivenöl in einer weiten Pfanne erhitzen und Zwiebeln bei mittlerer Hitze glasig dünsten.",
-      "Knoblauch und Paprika hinzufügen und weitere 3 Minuten anbraten.",
-      "Kreuzkümmel, Paprikapulver und Chiliflocken einrühren und kurz rösten bis es duftet.",
-      "Dosentomaten hinzugeben, mit Salz und Zucker abschmecken und 10 Minuten köcheln lassen.",
-      "Mit einem Löffel vier Mulden in die Sauce drücken und je ein Ei hineingleiten lassen.",
-      "Pfanne mit einem Deckel abdecken und Eier bei schwacher Hitze 5–7 Minuten pochieren.",
-      "Mit frischem Koriander und Feta bestreuen, mit Fladenbrot servieren."
+      "Die Zwiebel und den Knoblauch abziehen und fein würfeln. Die Paprika waschen, entkernen und in mundgerechte Streifen schneiden.",
+      "Das Olivenöl in einer großen Pfanne erhitzen und die Zwiebelwürfel bei mittlerer Hitze für ca. 4 Minuten glasig dünsten.",
+      "Knoblauch und Paprikastreifen hinzugeben und für weitere 5 Minuten unter Rühren anbraten, bis die Paprika weich wird.",
+      "Kreuzkümmel, Paprikapulver und Chiliflocken einstreuen und für 1 Minute unter ständigem Rühren anrösten, bis die Gewürze duften.",
+      "Die Dosentomaten in die Pfanne geben, mit Salz und einer Prise Zucker abschmecken. Die Sauce bei sanfter Hitze für 10–12 Minuten einköcheln lassen, bis sie leicht andickt.",
+      "Mit der Rückseite eines Löffels vier Mulden in die Sauce drücken. Den Seidentofu mit einem Esslöffel in vier Nocken abstechen und behutsam in die Mulden setzen.",
+      "Die Pfanne abdecken und den Seidentofu für ca. 5 Minuten in der heißen Sauce ziehen und aufwärmen lassen.",
+      "Das Gericht mit zerbröseltem veganen Feta und grob gehacktem Koriander bestreuen. Heiß mit frischem Fladenbrot servieren."
     ],
     "zutaten": [
       "1 große Zwiebel",
@@ -55,69 +60,69 @@
       "½ TL Chiliflocken",
       "1 Dose gehackte Tomaten (400 g)",
       "Salz und Zucker",
-      "4 Eier",
-      "100 g Feta",
+      "200 g Seidentofu",
+      "100 g veganer Feta-Ersatz",
       "Frischer Koriander",
       "Fladenbrot zum Servieren"
     ]
   },
   "rezept_3": {
-    "name": "Okonomiyaki",
-    "beschreibung": "Japanischer Herzhaft-Pfannkuchen mit Kohl – nach Belieben belegbar, daher der Name 'wie du magst'.",
+    "name": "Veganes Okonomiyaki",
+    "beschreibung": "Der japanische Herzhaft-Pfannkuchen mit Kohl – hier gebunden durch ein einfaches Leinsamen-Ei.",
     "portionen": 2,
     "zeit": "35 Minuten",
     "schritte": [
-      "Kohl in sehr feine Streifen schneiden, Frühlingszwiebeln in Ringe schneiden.",
-      "Mehl, Eier, Dashi-Brühe und eine Prise Salz zu einem glatten Teig verrühren.",
-      "Kohl, Frühlingszwiebeln und optionale Zutaten (Garnelen, Speck) unter den Teig heben.",
-      "Etwas Öl in einer beschichteten Pfanne bei mittlerer Hitze erhitzen.",
-      "Die Hälfte des Teigs als runden Fladen (ca. 2 cm dick) in die Pfanne geben und formen.",
-      "Bei mittlerer Hitze ca. 5 Minuten backen bis die Unterseite goldbraun ist.",
-      "Vorsichtig wenden und weitere 5 Minuten backen.",
-      "Mit Okonomiyaki-Sauce und Mayonnaise bestreichen, mit Katsuobushi und Aonori bestreuen."
+      "Für den Ei-Ersatz: 2 EL geschrotete Leinsamen mit 6 EL Wasser verrühren und für 10 Minuten quellen lassen.",
+      "Den Weißkohl von den äußeren Blättern befreien und in hauchfeine Streifen schneiden. Die Frühlingszwiebeln in feine Ringe schneiden.",
+      "In einer Schüssel das Mehl mit dem Leinsamen-Mix, der Gemüsebrühe und 1 TL Salz mit einem Schneebesen für 2 Minuten zu einem glatten Teig schlagen.",
+      "Den geschnittenen Kohl und die Frühlingszwiebeln unter den Teig heben, bis das Gemüse vollständig umhüllt ist.",
+      "Eine beschichtete Pfanne mit 2 EL Öl bei mittlerer Hitze erwärmen. Die Hälfte der Masse hineingeben und zu einem runden, 2 cm dicken Fladen formen.",
+      "Den Fladen bei mittlerer Hitze für exakt 6 Minuten backen, bis die Unterseite eine goldbraune Kruste gebildet hat.",
+      "Den Pfannkuchen vorsichtig wenden und die zweite Seite ebenfalls für 6 Minuten goldbraun backen.",
+      "Auf einen Teller gleiten lassen. Mit veganer Mayonnaise und Okonomiyaki-Sauce bestreichen und servieren."
     ],
     "zutaten": [
       "300 g Weißkohl",
       "3 Frühlingszwiebeln",
       "150 g Weizenmehl",
-      "2 Eier",
-      "120 ml Dashi-Brühe (oder Gemüsebrühe)",
-      "Salz",
+      "2 EL geschrotete Leinsamen (als Ei-Ersatz)",
+      "120 ml Gemüsebrühe",
+      "1 TL Salz",
       "Öl zum Braten",
-      "100 g Garnelen oder Speckstreifen (optional)",
-      "Okonomiyaki-Sauce",
-      "Japanische Mayonnaise",
-      "Katsuobushi (Bonitoflocken)",
-      "Aonori (Meeresalgenpulver)"
+      "Vegane Okonomiyaki-Sauce",
+      "Vegane Mayonnaise"
     ]
   },
   "rezept_4": {
     "name": "Avocado Toast",
-    "beschreibung": "",
+    "beschreibung": "Der moderne Frühstücksklassiker – cremige Avocado auf knusprigem Sauerteigbrot, abgerundet mit einem Hauch Zitrone.",
     "portionen": 2,
-    "zeit": "",
+    "zeit": "10 Minuten",
     "schritte": [
-      "Brotscheiben in der Pfanne goldbraun rösten.",
-      "Avocadohälften entkernen und das Fruchtfleisch grob zerdrücken.",
-      "Röstbrot mit Avocado bestreichen und mit Salz sowie Pfeffer abschmecken."
+      "Eine Pfanne ohne Öl auf mittlere Stufe erhitzen und die Sauerteigbrotscheiben darin für ca. 2–3 Minuten pro Seite goldbraun und knusprig rösten.",
+      "In der Zwischenzeit die Avocados halbieren, den Kern entfernen und das Fruchtfleisch mit einem Löffel in eine Schale geben. Mit einer Gabel für ca. 1 Minute grob zerdrücken.",
+      "Das Avocadopüree sofort mit dem Zitronensaft vermengen, um eine braune Verfärbung zu verhindern.",
+      "Das noch warme Röstbrot gleichmäßig mit der Avocado bestreichen und mit Meersalz sowie frisch gemahlenem Pfeffer vollenden."
     ],
     "zutaten": [
       "4 dicke Scheiben Sauerteigbrot",
       "2 reife Avocados",
-      "1 Prise Meersalz",
+      "1 Prise grobes Meersalz",
       "1 Prise schwarzer Pfeffer",
       "1 EL Zitronensaft"
     ]
   },
   "rezept_5": {
     "name": "Linsen-Bolognese",
-    "beschreibung": "",
+    "beschreibung": "Ein herzhafter italienischer Klassiker in der veganen Variante. Rote Linsen sorgen für die perfekte, sämige Textur.",
     "portionen": 2,
-    "zeit": "",
+    "zeit": "35 Minuten",
     "schritte": [
-      "Zwiebeln und Karotten fein würfeln und in Olivenöl anschwitzen.",
-      "Rote Linsen und passierte Tomaten hinzugeben und einkochen lassen.",
-      "Über al dente gekochter Pasta servieren."
+      "Zwiebeln und Karotten schälen und in ca. 3 mm feine Würfel schneiden. Olivenöl in einem Topf erhitzen und das Gemüse darin für 5 Minuten bei mittlerer Hitze sanft anschwitzen.",
+      "Die roten Linsen in einem feinen Sieb kalt abspülen, in den Topf geben und für 2 Minuten unter Rühren mitrösten.",
+      "Mit den passierten Tomaten ablöschen. Die Hitze reduzieren und die Sauce mit geschlossenem Deckel für 15–20 Minuten sanft köcheln lassen, bis die Linsen weich sind.",
+      "Während die Sauce kocht, die Spaghetti in reichlich Salzwasser für ca. 9–11 Minuten (nach Packungsanweisung) al dente kochen.",
+      "Die fertige Linsen-Bolognese kräftig mit Salz und Pfeffer abschmecken und über der abgetropften heißen Pasta servieren."
     ],
     "zutaten": [
       "200 g Spaghetti",
@@ -127,60 +132,65 @@
       "1 Karotte",
       "2 EL Olivenöl",
       "Salz",
-      "Pfeffer"
+      "Schwarzer Pfeffer"
     ]
   },
   "rezept_6": {
     "name": "Kichererbsen-Curry",
-    "beschreibung": "",
+    "beschreibung": "Ein schnelles, wärmendes Curry mit cremiger Kokosmilch und aromatischen Gewürzen – das perfekte Feierabendgericht.",
     "portionen": 2,
-    "zeit": "",
+    "zeit": "20 Minuten",
     "schritte": [
-      "Zwiebelwürfel mit Currypaste in einem Topf anbraten.",
-      "Abgetropfte Kichererbsen und Kokosmilch unterrühren.",
-      "15 Minuten auf mittlerer Hitze eindicken lassen."
+      "Die Zwiebel schälen und in feine Würfel schneiden. Das Öl in einem Topf erhitzen und die Zwiebelwürfel darin für 3 Minuten glasig dünsten.",
+      "Die gelbe Currypaste einrühren und für 1–2 Minuten anrösten, bis sie intensiv duftet. (Achtung: Nicht zu heiß, sonst wird sie bitter).",
+      "Die Kichererbsen abtropfen lassen, abspülen und zusammen mit der Kokosmilch in den Topf geben. Alles gut verrühren.",
+      "Das Curry bei mittlerer Hitze für 15 Minuten offen sanft einköcheln lassen, bis die Sauce eindickt. Mit einer Prise Salz abschmecken."
     ],
     "zutaten": [
       "1 Dose Kichererbsen (240 g Abtropfgewicht)",
       "200 ml Kokosmilch",
       "1 Zwiebel",
-      "2 EL gelbe Currypaste",
-      "1 EL Öl"
+      "2 EL vegane gelbe Currypaste",
+      "1 EL Öl",
+      "Prise Salz"
     ]
   },
   "rezept_7": {
     "name": "Tofu Scramble",
-    "beschreibung": "",
+    "beschreibung": "Die perfekte vegane Rührei-Alternative. Das Schwefelsalz Kala Namak verleiht dem Gericht ein verblüffend authentisches Ei-Aroma.",
     "portionen": 2,
-    "zeit": "",
+    "zeit": "10 Minuten",
     "schritte": [
-      "Naturtofu mit einer Gabel zerkrümeln und in einer Pfanne scharf anbraten.",
-      "Kurkuma und Kala Namak für Farbe und Schwefelaroma untermischen.",
-      "Mit frischem Schnittlauch garniert servieren."
+      "Den Naturtofu mit den Händen in einer Schüssel zu ungleichmäßigen Krümeln zerkleinern (nicht zu fein, damit Struktur bleibt).",
+      "Das Öl in einer Pfanne erhitzen und den Tofu darin bei mittelhoher Hitze für ca. 5–6 Minuten scharf anbraten, bis er leicht Farbe annimmt und etwas Flüssigkeit verliert.",
+      "Die Hitze reduzieren. Kurkuma (für die Farbe) und das Kala Namak unterrühren und nur noch für 1 Minute erwärmen, damit das feine Schwefelaroma des Salzes nicht verfliegt.",
+      "Den frischen Schnittlauch in feine Röllchen schneiden, den Tofu Scramble damit garnieren und am besten frisch auf geröstetem Brot servieren."
     ],
     "zutaten": [
       "400 g Naturtofu",
-      "2 EL Öl",
-      "1 TL Kala Namak",
+      "2 EL Öl (z.B. Rapsöl)",
+      "1 TL Kala Namak (Schwefelsalz)",
       "1 TL Kurkuma",
-      "½ Bund Schnittlauch"
+      "½ Bund frischer Schnittlauch"
     ]
   },
   "rezept_8": {
     "name": "Chili sin Carne",
-    "beschreibung": "",
+    "beschreibung": "Ein deftiger, mexikanisch inspirierter Eintopf, der durch das Sojagranulat eine fantastische, fleischähnliche Konsistenz erhält.",
     "portionen": 4,
-    "zeit": "",
+    "zeit": "40 Minuten",
     "schritte": [
-      "Zwiebeln und Sojagranulat in einem großen Topf anrösten.",
-      "Kidneybohnen, Mais und gehackte Tomaten hinzufügen.",
-      "20 Minuten bei schwacher Hitze durchziehen lassen."
+      "Die Zwiebel fein hacken. In einem großen Topf das Öl erhitzen und die Zwiebeln zusammen mit dem trockenen Sojagranulat für ca. 3 Minuten kräftig anrösten.",
+      "Das Chilipulver hinzugeben und für weitere 30 Sekunden mitrösten. Dann sofort mit der Gemüsebrühe ablöschen, damit das Granulat quellen kann.",
+      "Kidneybohnen und Mais in einem Sieb abspülen und zusammen mit den gehackten Tomaten in den Topf rühren.",
+      "Das Chili einmal aufkochen lassen, die Hitze reduzieren und mit geschlossenem Deckel bei schwacher Hitze für 25 Minuten durchziehen lassen. Zum Schluss mit Salz abschmecken."
     ],
     "zutaten": [
-      "75 g Sojagranulat",
+      "75 g feines Sojagranulat",
+      "400 ml heiße Gemüsebrühe",
       "1 Dose Kidneybohnen (240 g Abtropfgewicht)",
       "1 kleine Dose Mais (140 g Abtropfgewicht)",
-      "400 g gehackte Tomaten",
+      "400 g gehackte Tomaten (Dose)",
       "1 Zwiebel",
       "1 EL Chilipulver",
       "1 EL Öl"
@@ -188,13 +198,15 @@
   },
   "rezept_9": {
     "name": "Rotes Linsen-Dal",
-    "beschreibung": "",
+    "beschreibung": "Ein wärmendes indisches Wohlfühlessen. Seidig eingekochte rote Linsen, kombiniert mit frischem Ingwer und Kreuzkümmel.",
     "portionen": 2,
-    "zeit": "",
+    "zeit": "30 Minuten",
     "schritte": [
-      "Knoblauch und Ingwer fein hacken und kurz anbraten.",
-      "Linsen und Gemüsebrühe aufgießen und weich kochen.",
-      "Mit Kreuzkümmel abschmecken und zu Reis servieren."
+      "Den Basmatireis nach Packungsanweisung aufsetzen und für ca. 15–20 Minuten kochen.",
+      "Währenddessen Knoblauch und Ingwer schälen und extrem fein hacken. Das Öl in einem mittelgroßen Topf erhitzen und beides für ca. 2 Minuten anbraten, bis es duftet.",
+      "Die roten Linsen in einem Sieb kalt abwaschen, zusammen mit dem Kreuzkümmel in den Topf geben und für 1 Minute unter Rühren anrösten.",
+      "Mit der Gemüsebrühe aufgießen. Bei mittlerer Hitze für 15–20 Minuten sanft köcheln lassen, bis die Linsen zerfallen und eine cremige Textur bilden. Gelegentlich umrühren.",
+      "Das Dal mit Salz abschmecken und heiß zum fertigen Basmatireis servieren."
     ],
     "zutaten": [
       "150 g rote Linsen",
@@ -202,53 +214,59 @@
       "1 Knoblauchzehe",
       "1 daumengroßes Stück Ingwer",
       "1 TL Kreuzkümmel",
-      "120 g Basmatireis"
+      "120 g Basmatireis",
+      "1 EL Öl"
     ]
   },
   "rezept_10": {
     "name": "Vegane Pancakes",
-    "beschreibung": "",
+    "beschreibung": "Luftig, fluffig und goldbraun gebacken – diese einfachen Pancakes machen jedes Sonntagsfrühstück perfekt.",
     "portionen": 2,
-    "zeit": "",
+    "zeit": "20 Minuten",
     "schritte": [
-      "Mehl, Backpulver und Haferdrink zu einem glatten Teig verrühren.",
-      "Kleine Teigportionen in einer beschichteten Pfanne beidseitig goldbraun backen.",
-      "Mit Ahornsirup übergossen anrichten."
+      "Weizenmehl und Backpulver in einer großen Schüssel vermengen. Den Haferdrink schluckweise hinzugeben und mit einem Schneebesen für 1 Minute zügig zu einem glatten, leicht dickflüssigen Teig verrühren.",
+      "Eine beschichtete Pfanne mit 1 EL Öl bei mittlerer Hitze erwärmen.",
+      "Pro Pancake ca. 2 Esslöffel Teig in die Pfanne setzen. Für ca. 2–3 Minuten backen, bis sich an der Oberfläche kleine Bläschen bilden.",
+      "Die Pancakes wenden und die zweite Seite für weitere 1–2 Minuten goldbraun fertig backen. Vorgang wiederholen, bis der Teig aufgebraucht ist.",
+      "Zu einem Turm stapeln und großzügig mit Ahornsirup übergossen servieren."
     ],
     "zutaten": [
       "200 g Weizenmehl",
       "2 TL Backpulver",
       "250 ml Haferdrink",
-      "2 EL Öl",
+      "2 EL Öl (für die Pfanne)",
       "4 EL Ahornsirup"
     ]
   },
   "rezept_11": {
     "name": "Ofen-Süßkartoffel mit Hummus",
-    "beschreibung": "",
+    "beschreibung": "Simpel und köstlich: Zart gebackene, karamellisierte Süßkartoffeln treffen auf kühlen, cremigen Hummus.",
     "portionen": 2,
-    "zeit": "",
+    "zeit": "50 Minuten",
     "schritte": [
-      "Süßkartoffeln längs halbieren und im Ofen bei 200 °C weich backen.",
-      "Kartoffelhälften leicht eindrücken.",
-      "Großzügig mit Hummus füllen und servieren."
+      "Den Backofen auf 200 °C (Ober-/Unterhitze) vorheizen. Die Süßkartoffeln gründlich waschen und längs halbieren.",
+      "Die Schnittflächen leicht mit Olivenöl und einer Prise Salz einreiben. Die Hälften mit der Schnittfläche nach unten auf ein mit Backpapier belegtes Blech legen.",
+      "Für ca. 40–45 Minuten im Ofen backen, bis die Kartoffeln durchgehend extrem weich sind (mit einer Gabel testen).",
+      "Die gebackenen Süßkartoffeln herausnehmen, umdrehen und das Fruchtfleisch mit einer Gabel für 1 Minute leicht auflockern und eindrücken.",
+      "Die Kuhlen großzügig mit Hummus füllen und direkt warm servieren."
     ],
     "zutaten": [
       "2 mittelgroße Süßkartoffeln",
-      "150 g Hummus",
+      "150 g Hummus (gekauft oder selbstgemacht)",
       "1 EL Olivenöl",
       "1 Prise Salz"
     ]
   },
   "rezept_12": {
     "name": "Chia-Pudding",
-    "beschreibung": "",
+    "beschreibung": "Ein gesundes, wunderbar vorbereitbares Dessert oder Frühstück, gekrönt mit frischen Beeren.",
     "portionen": 2,
-    "zeit": "",
+    "zeit": "10 Minuten (plus 4 Std. Quellzeit)",
     "schritte": [
-      "Chiasamen und Sojadrink in zwei Gläsern gründlich vermengen.",
-      "Mindestens 4 Stunden im Kühlschrank quellen lassen.",
-      "Mit frischen Himbeeren als Abschluss garnieren."
+      "Chiasamen, Sojadrink und Ahornsirup auf zwei saubere Gläser verteilen und mit einem Löffel für 1 Minute gründlich verrühren.",
+      "Nach etwa 10 Minuten nochmals kräftig umrühren – das ist wichtig, um zu verhindern, dass die Samen zu einem festen Block verklumpen.",
+      "Die Gläser luftdicht abdecken und für mindestens 4 Stunden (am besten über Nacht) im Kühlschrank quellen lassen.",
+      "Vor dem Servieren die frischen Himbeeren waschen und den durchgezogenen Chia-Pudding damit garnieren."
     ],
     "zutaten": [
       "6 EL Chiasamen",
@@ -259,13 +277,14 @@
   },
   "rezept_13": {
     "name": "Overnight Oats",
-    "beschreibung": "",
+    "beschreibung": "Der stressfreie Start in den Tag. Cremig eingeweichte Haferflocken mit knackigen Walnüssen und frischem Apfel.",
     "portionen": 2,
-    "zeit": "",
+    "zeit": "5 Minuten (plus Übernacht-Kühlzeit)",
     "schritte": [
-      "Haferflocken und Pflanzenmilch in zwei Schalen mischen.",
-      "Über Nacht abgedeckt im Kühlschrank ruhen lassen.",
-      "Am Morgen mit gewürfelten Äpfeln und Walnüssen belegen."
+      "Die zarten Haferflocken und den Haferdrink in zwei Müslischalen oder Schraubgläsern gut miteinander vermischen.",
+      "Abdecken und für mindestens 6 Stunden oder über Nacht im Kühlschrank ruhen und andicken lassen.",
+      "Am nächsten Morgen den Apfel waschen, entkernen und in feine Würfel schneiden.",
+      "Die Oats kurz aufrühren (falls zu fest, einen Schuss extra Haferdrink einrühren). Mit den Apfelwürfeln und gehackten Walnüssen belegen und genießen."
     ],
     "zutaten": [
       "100 g zarte Haferflocken",
@@ -276,87 +295,95 @@
   },
   "rezept_14": {
     "name": "Blumenkohl-Wings",
-    "beschreibung": "",
+    "beschreibung": "Der ultimative vegane Snack! Außen knusprig, innen zart und umhüllt von einer herzhaft rauchigen BBQ-Sauce.",
     "portionen": 2,
-    "zeit": "",
+    "zeit": "45 Minuten",
     "schritte": [
-      "Blumenkohlröschen in einer Mischung aus Mehl und Wasser wenden.",
-      "Auf einem Blech backen und anschließend mit BBQ-Sauce bepinselt erneut rösten.",
-      "Heiß und knusprig servieren."
+      "Den Backofen auf 200 °C Umluft vorheizen. Den Blumenkohl waschen und in gleichmäßige, mundgerechte Röschen teilen.",
+      "In einer großen Schüssel Mehl, Wasser und Paprikapulver mit einem Schneebesen für 1 Minute zu einem glatten Ausbackteig verrühren.",
+      "Die Blumenkohlröschen durch den Teig ziehen, kurz abtropfen lassen und mit Abstand auf ein mit Backpapier belegtes Blech setzen. Für 20 Minuten im Ofen backen, bis der Teig leicht gebräunt ist.",
+      "Die Wings aus dem Ofen holen, in eine saubere Schüssel geben und rundherum mit der BBQ-Sauce vermengen. Zurück auf das Blech setzen.",
+      "Für weitere 10–15 Minuten im Ofen karamellisieren lassen, bis sie leicht klebrig und knusprig sind. Heiß servieren."
     ],
     "zutaten": [
       "1 kleiner Blumenkohl",
       "100 g Weizenmehl",
       "120 ml Wasser",
-      "6 EL BBQ-Sauce",
+      "6 EL vegane BBQ-Sauce",
       "½ TL Paprikapulver"
     ]
   },
   "rezept_15": {
     "name": "One-Pot Pasta",
-    "beschreibung": "",
+    "beschreibung": "Maximaler Geschmack bei minimalem Abwasch. Die Nudeln kochen direkt in der aromatischen Brühe und nehmen alle Gewürze auf.",
     "portionen": 2,
-    "zeit": "",
+    "zeit": "20 Minuten",
     "schritte": [
-      "Nudeln, Kirschtomaten und Zwiebelstreifen in einen Topf geben.",
-      "Mit exakt abgemessener Gemüsebrühe aufgießen und köcheln lassen bis die Flüssigkeit absorbiert ist.",
-      "Kräftig mit Pfeffer abschmecken."
+      "Die rote Zwiebel abziehen und in feine Streifen schneiden. Die Kirschtomaten waschen und halbieren.",
+      "Die rohen Linguine zusammen mit den Tomaten, den Zwiebelstreifen und etwas Pfeffer in einen großen, weiten Topf (oder eine tiefe Pfanne) geben.",
+      "Die exakt abgemessene Gemüsebrühe (600 ml) angießen. Alles bei hoher Stufe zum Kochen bringen.",
+      "Bei mittlerer Hitze ohne Deckel für ca. 12–15 Minuten sprudelnd kochen lassen. Dabei alle 2 Minuten umrühren, damit die Nudeln nicht am Boden kleben, bis die Pasta al dente ist und die Flüssigkeit eine cremige Sauce bildet.",
+      "Vor dem Servieren nochmals kräftig mit schwarzem Pfeffer abschmecken."
     ],
     "zutaten": [
       "250 g Linguine",
       "200 g Kirschtomaten",
       "1 rote Zwiebel",
       "600 ml Gemüsebrühe",
-      "Schwarzer Pfeffer"
+      "Schwarzer Pfeffer aus der Mühle"
     ]
   },
   "rezept_16": {
     "name": "Gebratener Reis mit Räuchertofu",
-    "beschreibung": "",
+    "beschreibung": "Resteverwertung auf höchstem Niveau. Herzhafter Räuchertofu und feines Sesamöl bringen asiatisches Flair in die Küche.",
     "portionen": 2,
-    "zeit": "",
+    "zeit": "15 Minuten",
     "schritte": [
-      "Gekochten Reis vom Vortag mit gewürfeltem Räuchertofu in der Pfanne anbraten.",
-      "Erbsen und Sojasauce unterheben und kurz mitbraten.",
-      "Mit etwas Sesamöl verfeinern."
+      "Den Räuchertofu in 1 cm kleine Würfel schneiden. In einem Wok oder einer großen Pfanne das Bratöl erhitzen und den Tofu für ca. 5 Minuten knusprig anbraten.",
+      "Den gekochten, erkalteten Reis hinzugeben. Unter ständigem Wenden bei hoher Hitze für 4–5 Minuten anbraten, bis der Reis leicht bräunt und heiß ist.",
+      "Die tiefgekühlten Erbsen untermischen und für weitere 2 Minuten mitbraten, bis sie aufgetaut sind.",
+      "Die Sojasauce darüberträufeln, alles gut durchschwenken. Die Pfanne vom Herd nehmen, das Sesamöl unterheben und sofort servieren."
     ],
     "zutaten": [
-      "300 g gekochter Reis",
+      "300 g gekochter Reis (am besten vom Vortag)",
       "200 g Räuchertofu",
       "100 g TK-Erbsen",
       "3 EL Sojasauce",
-      "1 TL Sesamöl",
+      "1 TL geröstetes Sesamöl",
       "2 EL Bratöl"
     ]
   },
   "rezept_17": {
     "name": "Spaghetti Aglio e Olio",
-    "beschreibung": "",
+    "beschreibung": "Ein minimalistisches Meisterwerk. Knoblauch, bestes Olivenöl und ein Hauch Petersilie, hier vegan gebunden mit Hefeflocken.",
     "portionen": 2,
-    "zeit": "",
+    "zeit": "15 Minuten",
     "schritte": [
-      "Knoblauch in reichlich Olivenöl sanft andünsten.",
-      "Al dente gekochte Spaghetti mitsamt etwas Nudelwasser in die Pfanne geben.",
-      "Mit Hefeflocken und Petersilie schwenken."
+      "Die Spaghetti in reichlich stark gesalzenem Wasser für ca. 9–10 Minuten sehr bissfest (al dente) kochen.",
+      "Währenddessen den Knoblauch schälen und in hauchdünne Scheiben schneiden. Das Olivenöl in einer großen Pfanne erwärmen und den Knoblauch bei sehr niedriger Hitze für ca. 4 Minuten sanft andünsten (nicht bräunen!).",
+      "Kurz bevor die Nudeln fertig sind, ca. 50 ml des stärkehaltigen Nudelwassers in die Pfanne geben und kräftig mit dem Öl verrühren, bis eine leichte Emulsion entsteht.",
+      "Die Nudeln abgießen und direkt in die Pfanne geben. Hefeflocken und fein gehackte Petersilie hinzufügen. Für 1 Minute kräftig durchschwenken, bis die Nudeln glänzen. Salzen und servieren."
     ],
     "zutaten": [
       "250 g Spaghetti",
       "4 Knoblauchzehen",
-      "50 ml Olivenöl",
+      "50 ml hochwertiges Olivenöl",
       "2 EL Hefeflocken",
-      "½ Bund Petersilie",
+      "½ Bund frische Petersilie",
       "Salz"
     ]
   },
   "rezept_18": {
     "name": "Bohnen-Mais-Wraps",
-    "beschreibung": "",
+    "beschreibung": "Ein flottes Tex-Mex-Gericht. Eine würzige, proteinreiche Bohnen-Mais-Füllung eingerollt in knusprig geröstete Weizentortillas.",
     "portionen": 2,
-    "zeit": "",
+    "zeit": "15 Minuten",
     "schritte": [
-      "Schwarze Bohnen und Mais abtropfen lassen und in einer Pfanne mit Kreuzkümmel erwärmen.",
-      "Weizentortillas mit der Mischung füllen.",
-      "Straff aufrollen und in der Pfanne kurz anrösten."
+      "Schwarze Bohnen und Mais in ein Sieb abgießen und unter fließendem Wasser gründlich abspülen.",
+      "1 EL Öl in einer Pfanne erhitzen. Bohnen, Mais und den Kreuzkümmel hineingeben und für ca. 4 Minuten sanft erwärmen und anrösten. Mit Salz abschmecken.",
+      "Die warme Bohnen-Mais-Mischung mittig auf den 4 Weizentortillas verteilen.",
+      "Die Seiten der Tortillas leicht einklappen und von unten nach oben straff aufrollen.",
+      "Die restlichen 1 EL Öl in die Pfanne geben und die gerollten Wraps bei mittlerer Hitze für ca. 2 Minuten pro Seite knusprig anrösten."
     ],
     "zutaten": [
       "4 Weizentortillas",
@@ -368,13 +395,14 @@
   },
   "rezept_19": {
     "name": "Kartoffelgulasch",
-    "beschreibung": "",
+    "beschreibung": "Ein rustikaler, wärmender Eintopf mit einer kräftigen Paprikanote, der sich durch die Kartoffelstärke von selbst cremig bindet.",
     "portionen": 4,
-    "zeit": "",
+    "zeit": "40 Minuten",
     "schritte": [
-      "Kartoffelwürfel und Paprikastücke in einem Topf scharf anbraten.",
-      "Mit Gemüsebrühe ablöschen und weichschmoren.",
-      "Großzügig mit Paprikapulver und Tomatenmark binden."
+      "Die Zwiebel würfeln. Die Kartoffeln schälen und in ca. 2 cm große Stücke schneiden. Die Paprika entkernen und in grobe Rauten schneiden.",
+      "In einem großen Topf etwas Öl erhitzen. Die Zwiebelwürfel für 3 Minuten glasig andünsten, dann Kartoffel- und Paprikastücke für 5 Minuten kräftig mitbraten.",
+      "Tomatenmark und edelsüßes Paprikapulver einrühren und für 1 Minute unter Rühren mitrösten (Röstaromen wecken).",
+      "Sofort mit der Gemüsebrühe ablöschen. Den Eintopf aufkochen lassen und bei mittlerer Hitze abgedeckt für ca. 25 Minuten weichschmoren lassen, bis die Kartoffeln gar sind. Mit Salz und Pfeffer abschmecken."
     ],
     "zutaten": [
       "500 g festkochende Kartoffeln",
@@ -382,22 +410,24 @@
       "1 Zwiebel",
       "2 EL Tomatenmark",
       "2 EL edelsüßes Paprikapulver",
-      "400 ml Gemüsebrühe"
+      "400 ml Gemüsebrühe",
+      "1 EL Öl"
     ]
   },
   "rezept_20": {
     "name": "Pilz-Stroganoff",
-    "beschreibung": "",
+    "beschreibung": "Eine cremige, herbstliche Pasta-Kreation. Angebratene Champignons in einer unvergleichlich sämigen Senf-Sojasahnesauce.",
     "portionen": 2,
-    "zeit": "",
+    "zeit": "25 Minuten",
     "schritte": [
-      "Champignons in Scheiben schneiden und kräftig anbraten.",
-      "Sojasahne und Senf einrühren und reduzieren lassen.",
-      "Über frisch gekochten Bandnudeln anrichten."
+      "Die Zwiebel in feine Würfel und die geputzten Champignons in Scheiben schneiden.",
+      "Das Öl in einer weiten Pfanne erhitzen. Die Zwiebeln für 3 Minuten glasig dünsten, dann die Pilze dazugeben. Bei hoher Hitze für ca. 7–8 Minuten kräftig anbraten, bis die Pilze braun werden und die Flüssigkeit verdampft ist.",
+      "Währenddessen die veganen Bandnudeln nach Packungsangabe in Salzwasser kochen (ca. 8 Minuten).",
+      "Die Sojasahne und den mittelscharfen Senf zu den gebratenen Pilzen rühren. Die Sauce für 3 Minuten leicht einreduzieren lassen. Mit Salz und Pfeffer abschmecken und über den abgetropften Nudeln servieren."
     ],
     "zutaten": [
-      "400 g Champignons",
-      "200 ml Sojasahne",
+      "400 g braune Champignons",
+      "200 ml Sojasahne (Cuisine)",
       "1 EL mittelscharfer Senf",
       "1 Zwiebel",
       "250 g vegane Bandnudeln",
@@ -408,13 +438,15 @@
   },
   "rezept_21": {
     "name": "Cremige Tomatensuppe",
-    "beschreibung": "",
+    "beschreibung": "Ein wärmender Seelenschmeichler. Die Kombination aus fruchtigen Tomaten und milder Kokosmilch macht die Suppe unwiderstehlich seidig.",
     "portionen": 4,
-    "zeit": "",
+    "zeit": "25 Minuten",
     "schritte": [
-      "Zwiebeln und Knoblauch anschwitzen.",
-      "Stückige Tomaten und Kokosmilch aufgießen und 10 Minuten köcheln lassen.",
-      "Mit einem Pürierstab sämig mixen."
+      "Zwiebel und Knoblauch schälen und grob würfeln. Das Olivenöl in einem Topf erhitzen und beides für 4 Minuten bei mittlerer Hitze sanft glasig anschwitzen.",
+      "Die stückigen Tomaten und die Kokosmilch angießen. Alles gut verrühren und zum Kochen bringen.",
+      "Die Suppe abgedeckt für ca. 12 Minuten bei niedriger Hitze sanft köcheln lassen.",
+      "Den Topf vom Herd nehmen und die Suppe mit einem Pürierstab für 2 Minuten sehr fein und sämig mixen.",
+      "Kräftig mit Salz und Pfeffer abschmecken und dampfend heiß servieren."
     ],
     "zutaten": [
       "2 Dosen stückige Tomaten (je 400 g)",
@@ -428,18 +460,19 @@
   },
   "rezept_22": {
     "name": "Gnocchi mit Spinat",
-    "beschreibung": "",
+    "beschreibung": "Italienische Wohlfühlküche für jeden Tag. Goldbraun gebratene Gnocchi in einer cremigen, feingewürzten Spinatsauce.",
     "portionen": 2,
-    "zeit": "",
+    "zeit": "15 Minuten",
     "schritte": [
-      "Gnocchi in etwas Öl goldbraun braten.",
-      "Frischen Spinat und vegane Sahne hinzufügen und zusammenfallen lassen.",
-      "Mit Muskatnuss und Salz abschmecken."
+      "Das Olivenöl in einer großen, beschichteten Pfanne erhitzen. Die Gnocchi direkt aus der Packung hineingeben und bei mittlerer Hitze für ca. 8 Minuten rundherum goldbraun und knusprig anbraten.",
+      "Den frischen Babyspinat waschen, abtropfen lassen und in die Pfanne geben. Für 2 Minuten durchschwenken, bis die Blätter zusammenfallen.",
+      "Die Hafersahne angießen und das Gericht für weitere 3 Minuten leicht einköcheln lassen, bis die Sauce andickt.",
+      "Mit einer großzügigen Prise frisch geriebener Muskatnuss und Salz abschmecken. Sofort servieren."
     ],
     "zutaten": [
-      "500 g vegane Gnocchi aus dem Kühlregal",
+      "500 g vegane Gnocchi (Kühlregal)",
       "200 g frischer Babyspinat",
-      "150 ml Hafersahne",
+      "150 ml Hafersahne (Cuisine)",
       "1 Prise Muskatnuss",
       "2 EL Olivenöl",
       "Salz"
@@ -447,21 +480,72 @@
   },
   "rezept_23": {
     "name": "Couscous-Salat",
-    "beschreibung": "",
+    "beschreibung": "Ein erfrischender, leichter Begleiter für warme Tage, wunderbar verfeinert mit Zitrone und knackigem frischem Gemüse.",
     "portionen": 2,
-    "zeit": "",
+    "zeit": "15 Minuten",
     "schritte": [
-      "Couscous mit kochender Brühe übergießen und abgedeckt ziehen lassen.",
-      "Gurke und Tomaten fein würfeln und unterheben.",
-      "Mit Zitronensaft und Olivenöl marinieren."
+      "Den Couscous in eine hitzebeständige Schale geben, mit der kochend heißen Gemüsebrühe übergießen und gut umrühren. Abgedeckt für exakt 5 Minuten quellen lassen.",
+      "In der Zwischenzeit die halbe Salatgurke und die Tomaten waschen und in sehr kleine, feine Würfel schneiden.",
+      "Den gequollenen Couscous mit einer Gabel für 1 Minute auflockern, damit er schön fluffig wird und leicht abkühlt. Die Gemüsewürfel unterheben.",
+      "Für das Dressing Zitronensaft und Olivenöl vermengen, über den Salat geben, gut durchmischen und vor dem Servieren idealerweise für 10 Minuten durchziehen lassen."
     ],
     "zutaten": [
       "150 g Couscous",
-      "150 ml Gemüsebrühe",
+      "150 ml kochende Gemüsebrühe",
       "½ Salatgurke",
       "2 Tomaten",
       "3 EL Olivenöl",
       "2 EL Zitronensaft"
+    ]
+  },
+  "rezept_24": {
+    "name": "Veganes Pad Thai",
+    "beschreibung": "Thailändisches Street-Food für zu Hause: Gebratene Reisnudeln mit Tofu in einer süß-sauren Tamarinden-Erdnuss-Sauce.",
+    "portionen": 2,
+    "zeit": "30 Minuten",
+    "schritte": [
+      "Die Reisnudeln in heißem Wasser nach Packungsanweisung (meist ca. 5–8 Minuten) einweichen, bis sie weich, aber noch bissfest sind. Abgießen.",
+      "Für die Sauce: Sojasauce, Ahornsirup, Tamarindenpaste und Limettensaft in einer kleinen Schale verrühren.",
+      "Den festen Tofu würfeln. In einem Wok 2 EL Öl erhitzen und den Tofu für 5 Minuten rundherum knusprig braten. Lauchzwiebeln (in Ringen) für 1 Minute mitbraten.",
+      "Die abgetropften Reisnudeln und die vorbereitete Sauce in den Wok geben. Alles bei hoher Hitze für 3 Minuten kräftig durchschwenken, bis die Sauce die Nudeln überzieht.",
+      "Mit gehackten Erdnüssen und Mungobohnensprossen bestreut sofort servieren."
+    ],
+    "zutaten": [
+      "200 g breite Reisnudeln",
+      "200 g fester Naturtofu",
+      "2 Lauchzwiebeln",
+      "3 EL Sojasauce",
+      "2 EL Ahornsirup",
+      "1 EL Tamarindenpaste",
+      "Saft von ½ Limette",
+      "1 Handvoll Mungobohnensprossen",
+      "3 EL geröstete, gehackte Erdnüsse",
+      "2 EL Öl"
+    ]
+  },
+  "rezept_25": {
+    "name": "Süßkartoffel-Erdnuss-Eintopf",
+    "beschreibung": "Ein westafrikanisch inspirierter Eintopf, bei dem sich süße Kartoffeln und cremige Erdnussbutter zu einem wahren Soulfood vereinen.",
+    "portionen": 4,
+    "zeit": "45 Minuten",
+    "schritte": [
+      "Die Zwiebel und den Knoblauch fein hacken. Die Süßkartoffeln schälen und in 2 cm große Würfel schneiden.",
+      "Etwas Öl in einem großen Topf erhitzen. Zwiebeln und Knoblauch für 3 Minuten andünsten. Das Tomatenmark hinzugeben und für 1 Minute mitrösten.",
+      "Die Süßkartoffelwürfel in den Topf geben, mit der Gemüsebrühe und den passierten Tomaten ablöschen. Für 15 Minuten abgedeckt sanft köcheln lassen.",
+      "Die Erdnussbutter mit einem Schneebesen in den Eintopf einrühren, bis sie sich vollständig aufgelöst hat. Den gewaschenen Spinat unterheben und für weitere 5 Minuten ziehen lassen, bis er zusammenfällt.",
+      "Mit Salz, Pfeffer und optional etwas Chili abschmecken. Am besten heiß zu Reis servieren."
+    ],
+    "zutaten": [
+      "800 g Süßkartoffeln",
+      "1 große Zwiebel",
+      "2 Knoblauchzehen",
+      "2 EL Tomatenmark",
+      "600 ml Gemüsebrühe",
+      "400 g passierte Tomaten",
+      "4 gehäufte EL cremige Erdnussbutter (ungesüßt)",
+      "150 g frischer Babyspinat",
+      "1 EL Öl",
+      "Salz und Pfeffer"
     ]
   }
 }
