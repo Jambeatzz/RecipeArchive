@@ -5,8 +5,8 @@
   },
   "index": {
     "header_titel": "Rezeptverzeichnis",
-    "header_untertitel": "Eine Sammlung liebgewonnener Rezepte",
-    "footer": "Selbst gebaut · Alle Rezepte handverlesen",
+    "header_untertitel": "Eine Sammlung von ein paar Veganen Rezepten die vond er Generativen KI Google Gemini Konzipiert wurden",
+    "footer": "Selbst gebaut · Alle Rezepte handverlesen (Digitale Hand von Gemini)",
     "badge_einheit": "Rezepte"
   },
   "karten": {
@@ -20,7 +20,7 @@
   "reader": {
     "zurueck_text": "← Zurück",
     "zurueck_link": "../../index.html",
-    "abschnitt_zubereitung": "Zubereitung",
-    "abschnitt_zutaten": "Zutaten"
+    "abschnitt_zubereitung": "Wie soll ich dass denn machen?",
+    "abschnitt_zutaten": "Was brauche ich denn bitte alles?"
   }
 }
