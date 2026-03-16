@@ -1,0 +1,26 @@
+{
+  "seite": {
+    "titel": "Rezeptverzeichnis",
+    "sprache": "de"
+  },
+  "index": {
+    "header_titel": "Rezeptverzeichnis",
+    "header_untertitel": "Eine Sammlung liebgewonnener Rezepte",
+    "footer": "Selbst gebaut · Alle Rezepte handverlesen",
+    "badge_einheit": "Rezepte"
+  },
+  "karten": {
+    "einheit_portionen": "Portionen",
+    "einheit_schritte": "Schritte",
+    "pfeil": "→",
+    "emoji_zeit": "⏱",
+    "emoji_portionen": "🍽",
+    "emoji_schritte": "📋"
+  },
+  "reader": {
+    "zurueck_text": "← Zurück",
+    "zurueck_link": "../../index.html",
+    "abschnitt_zubereitung": "Zubereitung",
+    "abschnitt_zutaten": "Zutaten"
+  }
+}

@@ -1,0 +1,467 @@
+{
+  "rezept_1": {
+    "name": "Vada Pav",
+    "beschreibung": "Das indische Street-Food Sandwich – knusprige Kartoffelkroketten im weichen Brötchen mit Chutneys.",
+    "portionen": 4,
+    "zeit": "45 Minuten",
+    "schritte": [
+      "Kartoffeln weich kochen, schälen und in einer Schüssel grob zerdrücken.",
+      "Ingwer, Knoblauch und grüne Chili fein hacken und zusammen mit Senfkörnern in etwas Öl kurz anbraten.",
+      "Gewürzmischung mit Kurkuma, Korianderpulver und Salz unter die Kartoffeln mischen und gut verkneten.",
+      "Aus der Masse runde Bällchen formen (ca. 5 cm Durchmesser).",
+      "Kichererbsenmehl mit Wasser, Salz und einer Prise Kurkuma zu einem glatten Teig verrühren.",
+      "Die Kartoffelbällchen im Teig wenden und in heißem Öl goldbraun ausbacken (ca. 3–4 Minuten).",
+      "Pav-Brötchen aufschneiden, innen mit grünem Chutney bestreichen.",
+      "Vada ins Brötchen legen, mit Tamarinden-Chutney beträufeln und sofort servieren."
+    ],
+    "zutaten": [
+      "500 g mehligkochende Kartoffeln",
+      "1 TL Senfkörner",
+      "2 Knoblauchzehen",
+      "1 Stück Ingwer (ca. 2 cm)",
+      "2 grüne Chilis",
+      "½ TL Kurkuma",
+      "1 TL Korianderpulver",
+      "Salz nach Geschmack",
+      "150 g Kichererbsenmehl",
+      "Öl zum Frittieren",
+      "4 Pav-Brötchen (oder Brioche-Brötchen)",
+      "Grünes Koriander-Chutney",
+      "Tamarinden-Chutney"
+    ]
+  },
+  "rezept_2": {
+    "name": "Shakshuka",
+    "beschreibung": "Nordafrikanisches Gericht mit in Tomatensauce pochierten Eiern – perfekt für ein herzhaftes Frühstück.",
+    "portionen": 2,
+    "zeit": "30 Minuten",
+    "schritte": [
+      "Zwiebel und Knoblauch fein würfeln, Paprika in Streifen schneiden.",
+      "Olivenöl in einer weiten Pfanne erhitzen und Zwiebeln bei mittlerer Hitze glasig dünsten.",
+      "Knoblauch und Paprika hinzufügen und weitere 3 Minuten anbraten.",
+      "Kreuzkümmel, Paprikapulver und Chiliflocken einrühren und kurz rösten bis es duftet.",
+      "Dosentomaten hinzugeben, mit Salz und Zucker abschmecken und 10 Minuten köcheln lassen.",
+      "Mit einem Löffel vier Mulden in die Sauce drücken und je ein Ei hineingleiten lassen.",
+      "Pfanne mit einem Deckel abdecken und Eier bei schwacher Hitze 5–7 Minuten pochieren.",
+      "Mit frischem Koriander und Feta bestreuen, mit Fladenbrot servieren."
+    ],
+    "zutaten": [
+      "1 große Zwiebel",
+      "3 Knoblauchzehen",
+      "2 rote Paprika",
+      "2 EL Olivenöl",
+      "1 TL Kreuzkümmel gemahlen",
+      "2 TL Paprikapulver edelsüß",
+      "½ TL Chiliflocken",
+      "1 Dose gehackte Tomaten (400 g)",
+      "Salz und Zucker",
+      "4 Eier",
+      "100 g Feta",
+      "Frischer Koriander",
+      "Fladenbrot zum Servieren"
+    ]
+  },
+  "rezept_3": {
+    "name": "Okonomiyaki",
+    "beschreibung": "Japanischer Herzhaft-Pfannkuchen mit Kohl – nach Belieben belegbar, daher der Name 'wie du magst'.",
+    "portionen": 2,
+    "zeit": "35 Minuten",
+    "schritte": [
+      "Kohl in sehr feine Streifen schneiden, Frühlingszwiebeln in Ringe schneiden.",
+      "Mehl, Eier, Dashi-Brühe und eine Prise Salz zu einem glatten Teig verrühren.",
+      "Kohl, Frühlingszwiebeln und optionale Zutaten (Garnelen, Speck) unter den Teig heben.",
+      "Etwas Öl in einer beschichteten Pfanne bei mittlerer Hitze erhitzen.",
+      "Die Hälfte des Teigs als runden Fladen (ca. 2 cm dick) in die Pfanne geben und formen.",
+      "Bei mittlerer Hitze ca. 5 Minuten backen bis die Unterseite goldbraun ist.",
+      "Vorsichtig wenden und weitere 5 Minuten backen.",
+      "Mit Okonomiyaki-Sauce und Mayonnaise bestreichen, mit Katsuobushi und Aonori bestreuen."
+    ],
+    "zutaten": [
+      "300 g Weißkohl",
+      "3 Frühlingszwiebeln",
+      "150 g Weizenmehl",
+      "2 Eier",
+      "120 ml Dashi-Brühe (oder Gemüsebrühe)",
+      "Salz",
+      "Öl zum Braten",
+      "100 g Garnelen oder Speckstreifen (optional)",
+      "Okonomiyaki-Sauce",
+      "Japanische Mayonnaise",
+      "Katsuobushi (Bonitoflocken)",
+      "Aonori (Meeresalgenpulver)"
+    ]
+  },
+  "rezept_4": {
+    "name": "Avocado Toast",
+    "beschreibung": "",
+    "portionen": 2,
+    "zeit": "",
+    "schritte": [
+      "Brotscheiben in der Pfanne goldbraun rösten.",
+      "Avocadohälften entkernen und das Fruchtfleisch grob zerdrücken.",
+      "Röstbrot mit Avocado bestreichen und mit Salz sowie Pfeffer abschmecken."
+    ],
+    "zutaten": [
+      "4 dicke Scheiben Sauerteigbrot",
+      "2 reife Avocados",
+      "1 Prise Meersalz",
+      "1 Prise schwarzer Pfeffer",
+      "1 EL Zitronensaft"
+    ]
+  },
+  "rezept_5": {
+    "name": "Linsen-Bolognese",
+    "beschreibung": "",
+    "portionen": 2,
+    "zeit": "",
+    "schritte": [
+      "Zwiebeln und Karotten fein würfeln und in Olivenöl anschwitzen.",
+      "Rote Linsen und passierte Tomaten hinzugeben und einkochen lassen.",
+      "Über al dente gekochter Pasta servieren."
+    ],
+    "zutaten": [
+      "200 g Spaghetti",
+      "100 g rote Linsen",
+      "400 g passierte Tomaten",
+      "1 Zwiebel",
+      "1 Karotte",
+      "2 EL Olivenöl",
+      "Salz",
+      "Pfeffer"
+    ]
+  },
+  "rezept_6": {
+    "name": "Kichererbsen-Curry",
+    "beschreibung": "",
+    "portionen": 2,
+    "zeit": "",
+    "schritte": [
+      "Zwiebelwürfel mit Currypaste in einem Topf anbraten.",
+      "Abgetropfte Kichererbsen und Kokosmilch unterrühren.",
+      "15 Minuten auf mittlerer Hitze eindicken lassen."
+    ],
+    "zutaten": [
+      "1 Dose Kichererbsen (240 g Abtropfgewicht)",
+      "200 ml Kokosmilch",
+      "1 Zwiebel",
+      "2 EL gelbe Currypaste",
+      "1 EL Öl"
+    ]
+  },
+  "rezept_7": {
+    "name": "Tofu Scramble",
+    "beschreibung": "",
+    "portionen": 2,
+    "zeit": "",
+    "schritte": [
+      "Naturtofu mit einer Gabel zerkrümeln und in einer Pfanne scharf anbraten.",
+      "Kurkuma und Kala Namak für Farbe und Schwefelaroma untermischen.",
+      "Mit frischem Schnittlauch garniert servieren."
+    ],
+    "zutaten": [
+      "400 g Naturtofu",
+      "2 EL Öl",
+      "1 TL Kala Namak",
+      "1 TL Kurkuma",
+      "½ Bund Schnittlauch"
+    ]
+  },
+  "rezept_8": {
+    "name": "Chili sin Carne",
+    "beschreibung": "",
+    "portionen": 4,
+    "zeit": "",
+    "schritte": [
+      "Zwiebeln und Sojagranulat in einem großen Topf anrösten.",
+      "Kidneybohnen, Mais und gehackte Tomaten hinzufügen.",
+      "20 Minuten bei schwacher Hitze durchziehen lassen."
+    ],
+    "zutaten": [
+      "75 g Sojagranulat",
+      "1 Dose Kidneybohnen (240 g Abtropfgewicht)",
+      "1 kleine Dose Mais (140 g Abtropfgewicht)",
+      "400 g gehackte Tomaten",
+      "1 Zwiebel",
+      "1 EL Chilipulver",
+      "1 EL Öl"
+    ]
+  },
+  "rezept_9": {
+    "name": "Rotes Linsen-Dal",
+    "beschreibung": "",
+    "portionen": 2,
+    "zeit": "",
+    "schritte": [
+      "Knoblauch und Ingwer fein hacken und kurz anbraten.",
+      "Linsen und Gemüsebrühe aufgießen und weich kochen.",
+      "Mit Kreuzkümmel abschmecken und zu Reis servieren."
+    ],
+    "zutaten": [
+      "150 g rote Linsen",
+      "400 ml Gemüsebrühe",
+      "1 Knoblauchzehe",
+      "1 daumengroßes Stück Ingwer",
+      "1 TL Kreuzkümmel",
+      "120 g Basmatireis"
+    ]
+  },
+  "rezept_10": {
+    "name": "Vegane Pancakes",
+    "beschreibung": "",
+    "portionen": 2,
+    "zeit": "",
+    "schritte": [
+      "Mehl, Backpulver und Haferdrink zu einem glatten Teig verrühren.",
+      "Kleine Teigportionen in einer beschichteten Pfanne beidseitig goldbraun backen.",
+      "Mit Ahornsirup übergossen anrichten."
+    ],
+    "zutaten": [
+      "200 g Weizenmehl",
+      "2 TL Backpulver",
+      "250 ml Haferdrink",
+      "2 EL Öl",
+      "4 EL Ahornsirup"
+    ]
+  },
+  "rezept_11": {
+    "name": "Ofen-Süßkartoffel mit Hummus",
+    "beschreibung": "",
+    "portionen": 2,
+    "zeit": "",
+    "schritte": [
+      "Süßkartoffeln längs halbieren und im Ofen bei 200 °C weich backen.",
+      "Kartoffelhälften leicht eindrücken.",
+      "Großzügig mit Hummus füllen und servieren."
+    ],
+    "zutaten": [
+      "2 mittelgroße Süßkartoffeln",
+      "150 g Hummus",
+      "1 EL Olivenöl",
+      "1 Prise Salz"
+    ]
+  },
+  "rezept_12": {
+    "name": "Chia-Pudding",
+    "beschreibung": "",
+    "portionen": 2,
+    "zeit": "",
+    "schritte": [
+      "Chiasamen und Sojadrink in zwei Gläsern gründlich vermengen.",
+      "Mindestens 4 Stunden im Kühlschrank quellen lassen.",
+      "Mit frischen Himbeeren als Abschluss garnieren."
+    ],
+    "zutaten": [
+      "6 EL Chiasamen",
+      "400 ml Sojadrink",
+      "2 EL Ahornsirup",
+      "100 g frische Himbeeren"
+    ]
+  },
+  "rezept_13": {
+    "name": "Overnight Oats",
+    "beschreibung": "",
+    "portionen": 2,
+    "zeit": "",
+    "schritte": [
+      "Haferflocken und Pflanzenmilch in zwei Schalen mischen.",
+      "Über Nacht abgedeckt im Kühlschrank ruhen lassen.",
+      "Am Morgen mit gewürfelten Äpfeln und Walnüssen belegen."
+    ],
+    "zutaten": [
+      "100 g zarte Haferflocken",
+      "300 ml Haferdrink",
+      "1 Apfel",
+      "30 g gehackte Walnüsse"
+    ]
+  },
+  "rezept_14": {
+    "name": "Blumenkohl-Wings",
+    "beschreibung": "",
+    "portionen": 2,
+    "zeit": "",
+    "schritte": [
+      "Blumenkohlröschen in einer Mischung aus Mehl und Wasser wenden.",
+      "Auf einem Blech backen und anschließend mit BBQ-Sauce bepinselt erneut rösten.",
+      "Heiß und knusprig servieren."
+    ],
+    "zutaten": [
+      "1 kleiner Blumenkohl",
+      "100 g Weizenmehl",
+      "120 ml Wasser",
+      "6 EL BBQ-Sauce",
+      "½ TL Paprikapulver"
+    ]
+  },
+  "rezept_15": {
+    "name": "One-Pot Pasta",
+    "beschreibung": "",
+    "portionen": 2,
+    "zeit": "",
+    "schritte": [
+      "Nudeln, Kirschtomaten und Zwiebelstreifen in einen Topf geben.",
+      "Mit exakt abgemessener Gemüsebrühe aufgießen und köcheln lassen bis die Flüssigkeit absorbiert ist.",
+      "Kräftig mit Pfeffer abschmecken."
+    ],
+    "zutaten": [
+      "250 g Linguine",
+      "200 g Kirschtomaten",
+      "1 rote Zwiebel",
+      "600 ml Gemüsebrühe",
+      "Schwarzer Pfeffer"
+    ]
+  },
+  "rezept_16": {
+    "name": "Gebratener Reis mit Räuchertofu",
+    "beschreibung": "",
+    "portionen": 2,
+    "zeit": "",
+    "schritte": [
+      "Gekochten Reis vom Vortag mit gewürfeltem Räuchertofu in der Pfanne anbraten.",
+      "Erbsen und Sojasauce unterheben und kurz mitbraten.",
+      "Mit etwas Sesamöl verfeinern."
+    ],
+    "zutaten": [
+      "300 g gekochter Reis",
+      "200 g Räuchertofu",
+      "100 g TK-Erbsen",
+      "3 EL Sojasauce",
+      "1 TL Sesamöl",
+      "2 EL Bratöl"
+    ]
+  },
+  "rezept_17": {
+    "name": "Spaghetti Aglio e Olio",
+    "beschreibung": "",
+    "portionen": 2,
+    "zeit": "",
+    "schritte": [
+      "Knoblauch in reichlich Olivenöl sanft andünsten.",
+      "Al dente gekochte Spaghetti mitsamt etwas Nudelwasser in die Pfanne geben.",
+      "Mit Hefeflocken und Petersilie schwenken."
+    ],
+    "zutaten": [
+      "250 g Spaghetti",
+      "4 Knoblauchzehen",
+      "50 ml Olivenöl",
+      "2 EL Hefeflocken",
+      "½ Bund Petersilie",
+      "Salz"
+    ]
+  },
+  "rezept_18": {
+    "name": "Bohnen-Mais-Wraps",
+    "beschreibung": "",
+    "portionen": 2,
+    "zeit": "",
+    "schritte": [
+      "Schwarze Bohnen und Mais abtropfen lassen und in einer Pfanne mit Kreuzkümmel erwärmen.",
+      "Weizentortillas mit der Mischung füllen.",
+      "Straff aufrollen und in der Pfanne kurz anrösten."
+    ],
+    "zutaten": [
+      "4 Weizentortillas",
+      "1 Dose schwarze Bohnen (240 g Abtropfgewicht)",
+      "1 kleine Dose Mais (140 g Abtropfgewicht)",
+      "1 TL Kreuzkümmel",
+      "2 EL Öl"
+    ]
+  },
+  "rezept_19": {
+    "name": "Kartoffelgulasch",
+    "beschreibung": "",
+    "portionen": 4,
+    "zeit": "",
+    "schritte": [
+      "Kartoffelwürfel und Paprikastücke in einem Topf scharf anbraten.",
+      "Mit Gemüsebrühe ablöschen und weichschmoren.",
+      "Großzügig mit Paprikapulver und Tomatenmark binden."
+    ],
+    "zutaten": [
+      "500 g festkochende Kartoffeln",
+      "2 rote Paprika",
+      "1 Zwiebel",
+      "2 EL Tomatenmark",
+      "2 EL edelsüßes Paprikapulver",
+      "400 ml Gemüsebrühe"
+    ]
+  },
+  "rezept_20": {
+    "name": "Pilz-Stroganoff",
+    "beschreibung": "",
+    "portionen": 2,
+    "zeit": "",
+    "schritte": [
+      "Champignons in Scheiben schneiden und kräftig anbraten.",
+      "Sojasahne und Senf einrühren und reduzieren lassen.",
+      "Über frisch gekochten Bandnudeln anrichten."
+    ],
+    "zutaten": [
+      "400 g Champignons",
+      "200 ml Sojasahne",
+      "1 EL mittelscharfer Senf",
+      "1 Zwiebel",
+      "250 g vegane Bandnudeln",
+      "2 EL Öl",
+      "Salz",
+      "Pfeffer"
+    ]
+  },
+  "rezept_21": {
+    "name": "Cremige Tomatensuppe",
+    "beschreibung": "",
+    "portionen": 4,
+    "zeit": "",
+    "schritte": [
+      "Zwiebeln und Knoblauch anschwitzen.",
+      "Stückige Tomaten und Kokosmilch aufgießen und 10 Minuten köcheln lassen.",
+      "Mit einem Pürierstab sämig mixen."
+    ],
+    "zutaten": [
+      "2 Dosen stückige Tomaten (je 400 g)",
+      "200 ml Kokosmilch",
+      "1 Zwiebel",
+      "1 Knoblauchzehe",
+      "1 EL Olivenöl",
+      "Salz",
+      "Pfeffer"
+    ]
+  },
+  "rezept_22": {
+    "name": "Gnocchi mit Spinat",
+    "beschreibung": "",
+    "portionen": 2,
+    "zeit": "",
+    "schritte": [
+      "Gnocchi in etwas Öl goldbraun braten.",
+      "Frischen Spinat und vegane Sahne hinzufügen und zusammenfallen lassen.",
+      "Mit Muskatnuss und Salz abschmecken."
+    ],
+    "zutaten": [
+      "500 g vegane Gnocchi aus dem Kühlregal",
+      "200 g frischer Babyspinat",
+      "150 ml Hafersahne",
+      "1 Prise Muskatnuss",
+      "2 EL Olivenöl",
+      "Salz"
+    ]
+  },
+  "rezept_23": {
+    "name": "Couscous-Salat",
+    "beschreibung": "",
+    "portionen": 2,
+    "zeit": "",
+    "schritte": [
+      "Couscous mit kochender Brühe übergießen und abgedeckt ziehen lassen.",
+      "Gurke und Tomaten fein würfeln und unterheben.",
+      "Mit Zitronensaft und Olivenöl marinieren."
+    ],
+    "zutaten": [
+      "150 g Couscous",
+      "150 ml Gemüsebrühe",
+      "½ Salatgurke",
+      "2 Tomaten",
+      "3 EL Olivenöl",
+      "2 EL Zitronensaft"
+    ]
+  }
+}
